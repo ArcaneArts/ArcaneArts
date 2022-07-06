@@ -3,8 +3,9 @@ This is the general repository outputs for ArcaneArts. Click the images to head 
 
 ## Software Packages
 
-| Amulet     | [![Latest version of 'Amulet' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/arcane/archive/maven/Amulet/latest/a=noarch;xg=art.arcane/?render=true&show_latest=true)](https://github.com/ArcaneArts/Amulet)             |
+| Project    | Version & Link |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Amulet     | [![Latest version of 'Amulet' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/arcane/archive/maven/Amulet/latest/a=noarch;xg=art.arcane/?render=true&show_latest=true)](https://github.com/ArcaneArts/Amulet)             |
 | Source     | [![Latest version of 'Amulet' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/arcane/archive/maven/Source/latest/a=noarch;xg=art.arcane.source/?render=true&show_latest=true)](https://github.com/ArcaneArts/Source)      |
 | Spatial    | [![Latest version of 'Spatial' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/arcane/archive/maven/Spatial/latest/a=noarch;xg=art.arcane/?render=true&show_latest=true)](https://github.com/ArcaneArts/Spatial)          |
 | Edict      | [![Latest version of 'Edict' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/arcane/archive/maven/Edict/latest/a=noarch;xg=art.arcane/?render=true&show_latest=true)](https://github.com/ArcaneArts/Edict)                |
