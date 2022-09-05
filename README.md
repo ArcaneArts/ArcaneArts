@@ -3,16 +3,14 @@ This is the general repository outputs for ArcaneArts. Click the images to head 
 
 ## Software Packages
 
-| Project    | Version & Link |
-|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Amulet     | [![Latest version of 'Amulet' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/arcane/archive/maven/Amulet/latest/a=noarch;xg=art.arcane/?render=true&show_latest=true)](https://github.com/ArcaneArts/Amulet)             |
-| Source     | [![Latest version of 'Amulet' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/arcane/archive/maven/Source/latest/a=noarch;xg=art.arcane/?render=true&show_latest=true)](https://github.com/ArcaneArts/Source)      |
-| Spatial    | [![Latest version of 'Spatial' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/arcane/archive/maven/Spatial/latest/a=noarch;xg=art.arcane/?render=true&show_latest=true)](https://github.com/ArcaneArts/Spatial)          |
-| Edict      | [![Latest version of 'Edict' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/arcane/archive/maven/Edict/latest/a=noarch;xg=art.arcane/?render=true&show_latest=true)](https://github.com/ArcaneArts/Edict)                |
-| BitPack    | [![Latest version of 'BitPack' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/arcane/archive/maven/BitPack/latest/a=noarch;xg=art.arcane/?render=true&show_latest=true)](https://github.com/ArcaneArts/BitPack)          |
-| MultiBurst | [![Latest version of 'MultiBurst' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/arcane/archive/maven/MultiBurst/latest/a=noarch;xg=art.arcane/?render=true&show_latest=true)](https://github.com/ArcaneArts/MultiBurst) |
-| NBTSon     | [![Latest version of 'NBTSon' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/arcane/archive/maven/NBTSon/latest/a=noarch;xg=art.arcane/?render=true&show_latest=true)](https://github.com/ArcaneArts/NBTSon)             |
-| Chrono     | [![](https://img.shields.io/github/v/release/ArcaneArts/Chrono?color=%236f24f0&display_name=tag&label=Chrono&sort=semver&style=for-the-badge)](https://github.com/ArcaneArts/Chrono)             |
-| Fukkit     | [![Latest version of 'Fukkit' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/arcane/archive/maven/Fukkit/latest/a=noarch;xg=art.arcane/?render=true&show_latest=true)](https://github.com/ArcaneArts/Fukkit)             |
-| Cram       | [![Latest version of 'Cram' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/arcane/archive/maven/Cram/latest/a=noarch;xg=art.arcane/?render=true&show_latest=true)](https://github.com/ArcaneArts/Cram)               |
-                                                                                                                                      
+[![](https://img.shields.io/github/v/release/ArcaneArts/Amulet?color=%236f24f0&display_name=tag&label=Amulet&sort=semver&style=for-the-badge)](https://github.com/ArcaneArts/Amulet)  
+[![](https://img.shields.io/github/v/release/ArcaneArts/Source?color=%236f24f0&display_name=tag&label=Source&sort=semver&style=for-the-badge)](https://github.com/ArcaneArts/Source)  
+[![](https://img.shields.io/github/v/release/ArcaneArts/Spatial?color=%236f24f0&display_name=tag&label=Spatial&sort=semver&style=for-the-badge)](https://github.com/ArcaneArts/Spatial)  
+[![](https://img.shields.io/github/v/release/ArcaneArts/Edict?color=%236f24f0&display_name=tag&label=Edict&sort=semver&style=for-the-badge)](https://github.com/ArcaneArts/Edict)  
+[![](https://img.shields.io/github/v/release/ArcaneArts/Chrono?color=%236f24f0&display_name=tag&label=Chrono&sort=semver&style=for-the-badge)](https://github.com/ArcaneArts/Chrono)  
+[![](https://img.shields.io/github/v/release/ArcaneArts/BitPack?color=%236f24f0&display_name=tag&label=BitPack&sort=semver&style=for-the-badge)](https://github.com/ArcaneArts/BitPack)  
+[![](https://img.shields.io/github/v/release/ArcaneArts/MultiBurst?color=%236f24f0&display_name=tag&label=MultiBurst&sort=semver&style=for-the-badge)](https://github.com/ArcaneArts/MultiBurst)  
+[![](https://img.shields.io/github/v/release/ArcaneArts/NBTSon?color=%236f24f0&display_name=tag&label=NBTSon&sort=semver&style=for-the-badge)](https://github.com/ArcaneArts/NBTSon)  
+[![](https://img.shields.io/github/v/release/ArcaneArts/Fukkit?color=%236f24f0&display_name=tag&label=Fukkit&sort=semver&style=for-the-badge)](https://github.com/ArcaneArts/Fukkit)  
+[![](https://img.shields.io/github/v/release/ArcaneArts/Cram?color=%236f24f0&display_name=tag&label=Cram&sort=semver&style=for-the-badge)](https://github.com/ArcaneArts/Cram)  
+                                         
