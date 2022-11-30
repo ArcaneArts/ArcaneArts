@@ -32,6 +32,7 @@ This is the general repository outputs for ArcaneArts. Click the images to head 
 ### Flutter
 
 [![](https://img.shields.io/pub/v/quantum?color=248df0&label=quantum&style=for-the-badge)](https://github.com/ArcaneArts/quantum)    
+[![](https://img.shields.io/pub/v/freeze?color=248df0&label=freeze&style=for-the-badge)](https://github.com/ArcaneArts/freeze)    
 [![](https://img.shields.io/pub/v/padded?color=248df0&label=padded&style=for-the-badge)](https://github.com/ArcaneArts/padded)    
 [![](https://img.shields.io/pub/v/snackbar?color=248df0&label=snackbar&style=for-the-badge)](https://github.com/ArcaneArts/snackbar)     
 [![](https://img.shields.io/pub/v/flyout?color=248df0&label=flyout&style=for-the-badge)](https://github.com/ArcaneArts/flyout)    
