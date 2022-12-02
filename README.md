@@ -37,6 +37,7 @@ This is the general repository outputs for ArcaneArts. Click the images to head 
 [![](https://img.shields.io/pub/v/snackbar?color=248df0&label=snackbar&style=for-the-badge)](https://github.com/ArcaneArts/snackbar)     
 [![](https://img.shields.io/pub/v/flyout?color=248df0&label=flyout&style=for-the-badge)](https://github.com/ArcaneArts/flyout)    
 [![](https://img.shields.io/pub/v/dialoger?color=248df0&label=dialoger&style=for-the-badge)](https://github.com/ArcaneArts/dialoger)       
+[![](https://img.shields.io/pub/v/hydrogen?color=248df0&label=hydrogen&style=for-the-badge)](https://github.com/ArcaneArts/hydrogen)       
 [![](https://img.shields.io/pub/v/charm?color=248df0&label=charm&style=for-the-badge)](https://github.com/ArcaneArts/charm)    
 [![](https://img.shields.io/pub/v/ingest?color=248df0&label=ingest&style=for-the-badge)](https://github.com/ArcaneArts/ingest)    
 [![](https://img.shields.io/pub/v/arcane?color=248df0&label=arcane&style=for-the-badge)](https://github.com/ArcaneArts/arcane)     
