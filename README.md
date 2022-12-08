@@ -21,6 +21,7 @@ This is the general repository outputs for ArcaneArts. Click the images to head 
 
 [![](https://img.shields.io/pub/v/throttled?color=00c7b0&label=throttled&style=for-the-badge)](https://github.com/ArcaneArts/throttled)    
 [![](https://img.shields.io/pub/v/microshaft?color=00c7b0&label=microshaft&style=for-the-badge)](https://github.com/ArcaneArts/microshaft)   
+[![](https://img.shields.io/pub/v/burst?color=00c7b0&label=burst&style=for-the-badge)](https://github.com/ArcaneArts/burst)   
 [![](https://img.shields.io/pub/v/fast_log?color=00c7b0&label=fast_log&style=for-the-badge)](https://github.com/ArcaneArts/fast_log)     
 [![](https://img.shields.io/pub/v/memcached?color=00c7b0&label=memcached&style=for-the-badge)](https://github.com/ArcaneArts/memcached)   
 [![](https://img.shields.io/pub/v/mapped_list?color=00c7b0&label=mapped_list&style=for-the-badge)](https://github.com/ArcaneArts/mapped_list)  
