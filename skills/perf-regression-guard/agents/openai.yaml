@@ -1,0 +1,4 @@
+interface:
+  display_name: "Perf Regression Guard"
+  short_description: "Track and detect performance regressions"
+  default_prompt: "Use $perf-regression-guard to run repeatable benchmarks, compare against baseline, and flag likely performance regressions."

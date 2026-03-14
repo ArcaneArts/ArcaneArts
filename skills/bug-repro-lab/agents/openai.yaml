@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bug Repro Lab"
+  short_description: "Build deterministic bug reproductions"
+  default_prompt: "Use $bug-repro-lab to create a deterministic reproduction artifact for a bug hypothesis without implementing fixes."

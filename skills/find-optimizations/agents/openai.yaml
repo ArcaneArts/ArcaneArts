@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find Optimizations"
+  short_description: "Inspect code for high-impact performance opportunities"
+  default_prompt: "Use $find-optimizations to inspect the codebase for potential high-impact performance improvements without making code changes."

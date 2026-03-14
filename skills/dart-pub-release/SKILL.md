@@ -60,3 +60,9 @@ python3 /path/to/skills/dart-pub-release/scripts/release_dart_package.py --skip-
 - Stop immediately if `pubspec.yaml` has no parseable version.
 - Stop if git commit fails.
 - Stop if `flutter pub publish --force` fails; report command output and do not retry automatically.
+
+## Boundaries and Handoffs
+
+- Use release-readiness style skills before publishing to verify tests, QA notes, and risk checks.
+- Use this skill only for versioning/changelog/commit/publish execution.
+- Do not perform broad bugfixing or optimization refactors in this release step.

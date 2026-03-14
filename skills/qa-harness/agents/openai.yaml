@@ -1,0 +1,4 @@
+interface:
+  display_name: "QA Harness"
+  short_description: "Build runnable QA harnesses and manual test flows"
+  default_prompt: "Use $qa-harness to create a runnable QA subproject, instrument logs, and generate user test instructions."

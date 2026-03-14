@@ -1,0 +1,4 @@
+interface:
+  display_name: "Update Unit Tests"
+  short_description: "Create and evolve low-scaffolding unit tests"
+  default_prompt: "Use $update-unit-tests to create or update simple unit tests for changed code with minimal scaffolding."

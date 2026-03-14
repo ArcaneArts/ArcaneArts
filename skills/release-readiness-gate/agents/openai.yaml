@@ -1,0 +1,4 @@
+interface:
+  display_name: "Release Readiness Gate"
+  short_description: "Aggregate quality checks before release"
+  default_prompt: "Use $release-readiness-gate to collect test, QA, and risk signals and produce a release GO/NO-GO summary."

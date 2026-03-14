@@ -1,0 +1,4 @@
+interface:
+  display_name: "Peep-Hole Optimize"
+  short_description: "Apply low-risk micro-optimizations with proof"
+  default_prompt: "Use $peep-hole-optimize to apply low-risk code optimizations and prove wins with A/B benchmarks when uncertain."

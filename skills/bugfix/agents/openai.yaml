@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bugfix Pass"
+  short_description: "Find and fix safe source-level bugs"
+  default_prompt: "Use $bugfix to run a safe source-level bug pass and apply only low-risk fixes with verification."

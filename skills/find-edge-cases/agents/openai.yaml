@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find Edge Cases"
+  short_description: "Red-team source for edge-case and handling gaps"
+  default_prompt: "Use $find-edge-cases to inspect source code and draft plausible edge-case failure hypotheses without making code changes."
