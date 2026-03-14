@@ -1,0 +1,4 @@
+interface:
+  display_name: "Dart Pub Release"
+  short_description: "Automate Dart package release and publish"
+  default_prompt: "Use $dart-pub-release to bump version, update changelog, commit, and publish this package to pub.dev."

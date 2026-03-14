@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Template"
+  short_description: "Starter structure for creating new Codex skills"
+  default_prompt: "Use $skill-template as a starting point when creating a new reusable skill for this repository."
