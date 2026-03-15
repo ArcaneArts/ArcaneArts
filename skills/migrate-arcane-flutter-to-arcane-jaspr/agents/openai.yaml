@@ -1,0 +1,4 @@
+interface:
+  display_name: "Arcane Flutter -> Arcane Jaspr"
+  short_description: "Stage Arcane Flutter-to-Jaspr migrations"
+  default_prompt: "Use $migrate-arcane-flutter-to-arcane-jaspr to stage an Arcane Flutter migration into an Oracular-based Arcane Jaspr workspace with parity gates and controlled cutover."

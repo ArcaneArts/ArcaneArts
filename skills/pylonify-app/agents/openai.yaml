@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pylonify App"
+  short_description: "Refactor Flutter apps toward Pylon data flow"
+  default_prompt: "Use $pylonify-app to scan a Flutter app for prop-drilled, mutable, async, and global-state candidates, then refactor it toward scoped Pylon data flow."

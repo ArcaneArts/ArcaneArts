@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jaspr -> Arcane Jaspr"
+  short_description: "Stage Jaspr-to-Arcane Jaspr migrations"
+  default_prompt: "Use $migrate-jaspr-to-arcane-jaspr to stage a raw Jaspr migration into an Oracular-based Arcane Jaspr workspace with parity gates and controlled cutover."
