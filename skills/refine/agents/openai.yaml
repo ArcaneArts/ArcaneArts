@@ -1,0 +1,4 @@
+interface:
+  display_name: "Refine"
+  short_description: "Modularize code and reduce duplication safely"
+  default_prompt: "Use $refine to de-spaghettify code by extracting reusable modules, reducing duplication, and splitting oversized files while preserving behavior."
