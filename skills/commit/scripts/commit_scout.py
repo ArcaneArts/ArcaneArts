@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Summarize staged and unstaged git state for the commit skill."""
+"""Summarize git state for the commit skill with broad-sync defaults."""
 
 from __future__ import annotations
 
@@ -68,17 +68,17 @@ def main() -> int:
 
     hints: list[str] = []
     if staged_files and not unstaged_files and not untracked_files:
-        hints.append("- Staged files already look like a self-contained commit candidate.")
+        hints.append("- The staged set is already ready for a broad sync commit.")
     if not staged_files and (unstaged_files or untracked_files):
-        hints.append("- Nothing is staged yet; decide whether to draft-only or stage a coherent slice first.")
+        hints.append("- Nothing is staged yet; broad-sync mode suggests staging the full tree with git add -A.")
     if overlapping_files:
         hints.append(
-            "- Some files are both staged and unstaged; check for partially staged hunks before committing."
+            "- Some files are both staged and unstaged; if doing the default broad sync, stage the remaining hunks too."
         )
     if len(staged_files) > 1 or len(unstaged_files) > 1 or len(untracked_files) > 1:
-        hints.append("- Review for unrelated work before writing a single commit message.")
+        hints.append("- Multiple change types are present; broad sync is the default unless the user requested a narrower scope.")
     if not hints:
-        hints.append("- Inspect the diff and active conversation to determine the cleanest commit scope.")
+        hints.append("- Inspect the diff and active conversation, but assume a broad sync commit unless told otherwise.")
 
     print(f"Repository: {repo_root}")
     print(f"Branch: {branch}")
