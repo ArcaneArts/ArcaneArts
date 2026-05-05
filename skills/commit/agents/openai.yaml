@@ -1,0 +1,4 @@
+interface:
+  display_name: "Commit"
+  short_description: "Draft focused git commits from active repo changes"
+  default_prompt: "Use $commit to inspect staged and unstaged changes, factor in the active conversation, and write a precise git commit for the current work."
