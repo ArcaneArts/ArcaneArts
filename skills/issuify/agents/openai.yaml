@@ -1,0 +1,4 @@
+interface:
+  display_name: "Issuify"
+  short_description: "Hydrate short issue blurbs into repo-aware markdown"
+  default_prompt: "Use $issuify to inspect the project and turn a short issue description into a copyable markdown issue report with current behavior, relevant files, a fix approach, acceptance criteria, and risks."

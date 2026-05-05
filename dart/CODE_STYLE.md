@@ -146,6 +146,7 @@ Use this order:
 - Do not add comments by default.
 - Code should be readable without comments.
 - Add comments only if explicitly requested or truly unavoidable.
+- Do not remove existing comments unless they are incorrect and need correction.
 
 ### 14) Logging
 - Avoid adding logs unless needed.
