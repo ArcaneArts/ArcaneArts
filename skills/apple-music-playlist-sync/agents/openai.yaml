@@ -1,0 +1,4 @@
+interface:
+  display_name: "Apple Music Playlist Sync"
+  short_description: "Use Apple Music API plus local Music AppleScript to add catalog songs to playlists without UI control"
+  default_prompt: "Use $apple-music-playlist-sync to authorize Apple Music locally, match a text song list through the Apple Music API, add catalog songs to the library if needed, and copy them into an existing Music playlist in the background."
